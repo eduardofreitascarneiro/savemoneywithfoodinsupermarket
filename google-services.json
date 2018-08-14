@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "310907390440",
+    "firebase_url": "https://supermarket-5116d.firebaseio.com",
+    "project_id": "supermarket-5116d",
+    "storage_bucket": "supermarket-5116d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310907390440:android:f7fcaead36821a2c",
+        "android_client_info": {
+          "package_name": "br.com.portfolio.supermarket.supermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310907390440-derimocbd1ts10r8g84ljpg0563h0a3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.portfolio.supermarket.supermarket",
+            "certificate_hash": "3340ddc2a8c62b4e4ce6cf90441f42c934acaab4"
+          }
+        },
+        {
+          "client_id": "310907390440-qi71h9uqmmg0ae6t11j911cg4m86lupg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFNkc489m_cSmAFNXxozy_US_KqvOiIjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310907390440-qi71h9uqmmg0ae6t11j911cg4m86lupg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
